@@ -23,3 +23,49 @@ ORDER BY
   demand_count DESC
 LIMIT 5
 
+/*
+El mercado no demanda una sola habilidad estrella.
+
+Demanda una combinación estructurada:
+
+SQL + (Excel o Python) + una herramienta de BI
+
+No alcanza con saber solo una.
+
+📌 Insight para alguien que busca empleo
+
+Si una persona quiere maximizar empleabilidad como Data Analyst:
+
+SQL es obligatorio
+
+Debe complementar con Python
+
+Debe manejar al menos una herramienta de visualización
+
+Excel sigue siendo relevante incluso en 2025
+
+[
+  {
+    "skills": "sql",
+    "demand_count": "7291"
+  },
+  {
+    "skills": "excel",
+    "demand_count": "4611"
+  },
+  {
+    "skills": "python",
+    "demand_count": "4330"
+  },
+  {
+    "skills": "tableau",
+    "demand_count": "3745"
+  },
+  {
+    "skills": "power bi",
+    "demand_count": "2609"
+  }
+]
+
+
+*/
